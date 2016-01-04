@@ -11,8 +11,8 @@ będą zmieniały kierunek jazdy w losowych momentach czasu.
 
 W lewym dolnym rogu okienka wywietlana jest informacja o aktualnym wyniku.
 
-Sterowanie czołgiem: strzałki
-Zatrzymanie gry: spacja
+Sterowanie czołgiem: strzałki <br />
+Zatrzymanie gry: spacja <br />
 Wznowienie gry: spacja
 
 Gra jest uruchamiana z opcjami, które były włączone na zakończenie poprzedniej gry.
