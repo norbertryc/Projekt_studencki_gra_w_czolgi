@@ -1,4 +1,4 @@
-# ProjektGra_Tanki
+﻿# ProjektGra_Tanki
 Gra Tanki
 
 Gra polega na zebraniu jak największej ilości złota (żółte kółka). 
@@ -11,7 +11,7 @@ będą zmieniały kierunek jazdy w losowych momentach czasu.
 
 W lewym dolnym rogu okienka wywietlana jest informacja o aktualnym wyniku.
 
-Sterowanie czołgiem: strzałi
+Sterowanie czołgiem: strzałki
 Zatrzymanie gry: spacja
 Wznowienie gry: spacja
 
