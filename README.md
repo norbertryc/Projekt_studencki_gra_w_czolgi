@@ -16,4 +16,6 @@ Zatrzymanie gry: spacja <br />
 Wznowienie gry: spacja
 
 Gra jest uruchamiana z opcjami, które były włączone na zakończenie poprzedniej gry.
-Przy pierwszym uruchomieniu żadna z opcji nie jest włączona (gra jest wtedy najłatwiejsza).
+Przy pierwszym uruchomieniu żadna z opcji nie jest włączona (gra jest wtedy najłatwiejsza). 
+Najlepiej gra się przy włączonych drugiej i trzeciej opcji.
+
